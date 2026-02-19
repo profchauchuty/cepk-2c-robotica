@@ -1,6 +1,6 @@
 # 📘 Robótica
 
-**Turma:** 3ª Ano – Tarde – CEPK-2C  
+**Turma:** 2ª Ano – Tarde – CEPK
 **Professor:** Cesar Mauricio Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
