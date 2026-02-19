@@ -40,14 +40,18 @@
 
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
+| Como a robótica está moldando o nosso futuro | [Acessar](https://nossaenergia.petrobras.com.br/w/inovacao/como-a-robotica-esta-moldando-o-nosso-futuro) |
+| Componentes Eletrônicos Básicos        | [Acessar](https://blog.eletrogate.com/componentes-eletronicos-basicos) |
 
 ---
 
 ## 🛠 Ferramentas
 
-| Ferramenta       | Finalidade                                     | Link                       |
-|-----------------|-----------------------------------------------|----------------------------|
-| Excalidraw      | Criação de fluxogramas e diagramas visuais   | [Acessar](https://excalidraw.com/) |
+| Ferramenta  | Finalidade                                                    | Link                                  |
+|------------|----------------------------------------------------------------|---------------------------------------|
+| Tinkercad  | Modelagem 3D, simulação de circuitos e prototipagem eletrônica | [Acessar](https://www.tinkercad.com/) |
+| Excalidraw | Criação de fluxogramas e diagramas visuais                     | [Acessar](https://excalidraw.com/)    |
+
 
 ---
 
