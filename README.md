@@ -12,11 +12,11 @@
 
 ### 1º Trimestre
 
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade                   | Descrição                | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|--------------------------|-----------|----------------|------------|
+| Atividade Individual        | Pesquisa: Transistores   | 3.0       | 16/03/2026     | ✅         |
+| Trabalho em Grupo           | <DEFINIR>                | <DEFINIR> | ??/??/????     | ◻️         |
+| Recuperação                 | <DEFINIR>                | <DEFINIR> | ??/??/????     | ◻️         |
 
 ### 2º Trimestre
 
