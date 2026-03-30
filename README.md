@@ -12,11 +12,12 @@
 
 ### 1º Trimestre
 
-| Atividade                   | Descrição                | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------------|-----------|----------------|------------|
-| Atividade Individual        | Pesquisa: Transistores   | 3.0       | 16/03/2026     | ✅         |
-| Trabalho em Grupo           | <DEFINIR>                | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>                | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade                   | Descrição                          | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|------------------------------------|-----------|----------------|------------|
+| Atividade Individual        | Pesquisa: Transistores             | 2.0       | 16/03/2026     | ✅         |
+| Trabalho em Grupo           | Atividade: Componentes Eletrônicos | 3.0       | 23/03/2026     | ✅         |
+| Avaliação Individual        | Prova                              | 5.0       | 14/04/2026     | ◻️         |
+| Recuperação                 | <DEFINIR>                          | <DEFINIR> | 19/04/2026     | ◻️         |
 
 ### 2º Trimestre
 
